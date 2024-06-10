@@ -1,16 +1,16 @@
-Lettuce-Bacterial
-Lettuce-Fungal Downy Mildew
-Lettuce-Fungal Powdery Mildew
-Lettuce-Fungal Septoria Blight
-Tomato-Spider Mites
-Tomato-Target Spot
-Tomato___Tomato_Yellow_Leaf_Curl_Virus
-Tomato___Tomato_mosaic_virus
-karat_putih
-kekurangan_mangan
-tomato_bacterial_spot
-tomato_early_blight
-tomato_late_blight
-tomato_leaf_mold
-tomato_septoria_leaf_spot
-virus_keriting
+Lettuce_Bacterial
+Lettuce_Fungal_Downy_Mildew
+Lettuce_Fungal_Powdery_Mildew
+Lettuce_Fungal_Septoria_Blight
+Spinach_Curling_Virus
+Spinach_Manganese_Deficiency
+Spinach_White_Rust
+Tomato_Bacterial_Spot
+Tomato_Early_Blight
+Tomato_Late_Blight
+Tomato_Leaf_Mold
+Tomato_Mosaic_Virus
+Tomato_Septoria_Leaf_Spot
+Tomato_Spider_Mites
+Tomato_Target_Spot
+Tomato_Yellow_Leaf_Curl_Virus
